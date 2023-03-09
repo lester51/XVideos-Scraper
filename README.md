@@ -77,7 +77,7 @@ Params | Is Required | Type | Selectors | Description |
     uploaderProfile: 'https://www.xvideos2.com/pornstar-channels/madelaine_rousset'
   }
 ]
-```js
+```
 
 ### Success response for `getVideoData()` with proxy
 ```js

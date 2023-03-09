@@ -1,6 +1,6 @@
 {
   "name": "xvideos-scraper",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple XVideos Scraper that srapes/gets video data and downloadable video source and returns a promise/JSON Object.",
   "main": "XVideos.js",
   "scripts": {
